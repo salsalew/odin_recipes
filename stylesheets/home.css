@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #F6F7F3;
+}
+
 h1 {
     color: #414A30;
     background-color: #C0CAAD;
@@ -37,8 +41,4 @@ h1 {
 .link-style a {
     text-decoration: underline solid white;
     color: #414A30;
-}
-
-body {
-    background-color: #F6F7F3;
 }
