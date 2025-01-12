@@ -7,6 +7,11 @@ h1 {
     font-weight: 400;
     font-size: 55px;
 }
-button {
-    background-color: aliceblue;
+.button a {
+    background-color: #ECEFE6;
+    border: 2px solid #637048;
+    text-decoration: none;
+    color: #414A30;
+    padding: 1em 1.5em
 }
+
